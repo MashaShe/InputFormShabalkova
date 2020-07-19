@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InputFormShabalkova</string>
+    <string name="ent_name">Имя пользователя</string>
+    <string name="ent_email">Электронная почта</string>
+     <string name="hint_name">Введите имя пользователя</string>
+     <string name="hint_email">Введите адрес электронной почты</string>
+    <string name="ok">OK</string>
+    <string name="clear">Очистить</string>
+   </resources>
